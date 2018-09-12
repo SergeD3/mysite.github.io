@@ -1,0 +1,10 @@
+body{
+  background: rgb(230,250,230);
+  margin: 0px;
+  padding: 0px;
+}
+table td{
+  border-style: solid;
+  width: 100%;
+
+}
